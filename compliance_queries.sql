@@ -1,0 +1,6 @@
+-- =======================================================
+-- Project: Olist E-Commerce Dataset Compliance & Risk Analysis
+-- File: compliance_queries.sql
+-- Description: Core SQL queries for transaction risk screening,
+--              payment volume breakdown, and high-spend detection.
+-- =======================================================
