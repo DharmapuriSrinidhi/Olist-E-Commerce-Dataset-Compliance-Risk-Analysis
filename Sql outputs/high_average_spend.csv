@@ -1,0 +1,5 @@
+payment_type,total_orders,avg_payment
+credit_card,76795,163.319021
+boleto,19784,145.034435
+debit_card,1529,142.570170
+voucher,5775,65.703354
